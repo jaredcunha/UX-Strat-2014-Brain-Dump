@@ -56,6 +56,7 @@ c. Conduct external interviews
 - 60 minute 
 - Gather existing reports and studies
 
+
 Look up the critical incident
 
 ## 3. Illustrate
@@ -79,3 +80,19 @@ Business Side
 - Comptetitors
 
 Look up UK Jury Selection Journey Map
+Look at Chris Risdon's experience map for Rail Europe
+Read "Subject to Change"
+Read "who do you want your customers to become?"
+- Kodak didnt' invent the camera, they invented the photographer
+
+Say what you want your customers to become in each phase, focus on experts. 
+
+## 4. Align
+- Invite a range of stakeholders
+- Read through diagram and rate company performance
+- Engage in create exercises and discuss
+a. Collaborate
+b. Allign
+- look for weaknesses, gaps, redundancies, and competitors
+
+Read Designing the Conversation, Moments of Impact, Game Stormingf
