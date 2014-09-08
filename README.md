@@ -1,6 +1,6 @@
 # UX Strat 2014 Brain Dump
 
-My notes from UX Strat 2014 in Boulder, CO. This is a collection of notes I've taken from each talk and workshop. Typing as I listen, expect lots of typos. I'll go back and edit and add links when I can.
+My notes from UX Strat 2014 in Boulder, CO. This is a collection of notes I've taken from each talk and workshop. Typing as I listen, expect lots of typos. I'll go back and edit and add links when I can. Some pages will have more depth than others.
 
 ## Sunday Workshops
 - [Jim Kalbach: Mapping User Experience with Alignment Diagrams](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Mapping_User_Experience_with_Alignment_Diagrams.md)
@@ -14,5 +14,6 @@ My notes from UX Strat 2014 in Boulder, CO. This is a collection of notes I've t
 - [Brian Gillespie: How to avoid losing design strategy to business strategies](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/How_to_Avoid_Losing_Design_Strategy_to_Business_Strategies.md)
 - [Martin Granström: UX as a Company Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/UX_as_a_Company_Strategy.md)
 - [Todd Wilkens: Putting UX and Strategy at the Heart fo the Product Team](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Putting_UX_and_Strategy_at_the_Heart_of_the_Product_Team.md)
+- [Matthew Holloway: Design Your Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Design_Your_Strategy.md)
 
 ## Tuesday Talks
