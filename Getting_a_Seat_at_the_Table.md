@@ -1,5 +1,4 @@
-# Getting a Seat at the Table
-Laura Granka
+# Laura Granka: Getting a Seat at the Table
 
 Google philosophy - focus on the user and all else will follow. 
 UX was all about speed and performance. 
