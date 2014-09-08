@@ -37,4 +37,10 @@ The UX for a defined scenario is "played back" to stakeholders to foster collabo
 
 __all of this creates a culture of showing versus telling__
 
+### Agile/Lean/DevOps
+makes a truly modern iterative approach to creating, delivering, and evaluating quality experiences with market. 
+focused on user outcomes for users (see etsy's focus on customer focus)
+continuous learning
+radical collaboration - get empathy from/for everyone on your team
 
+Fail fast and cheap - figure out how to address the biggest assumptions and hypothesis
