@@ -22,3 +22,8 @@ My notes from UX Strat 2014 in Boulder, CO. This is a collection of notes I've t
 - [Sofia Hussain: Designing Digital Strategies Based on Ecosystem Thinking](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Designing_Digital_Strategies_Based_on_Ecosystem.md)
 - [Fabio Sergio: Design for Impact](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/masterUsing_Behavioral_Modeling_to_Engage.md)
 - [Rich Warnaka: Using Behavioral Modeling to Engage Customers](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Design_for_Impact.md)
+- [Lisa Estrin: UX Strategy to Kick off March Madness Live](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/UX_Strategy_to_Kick_off_March_Madness.md)
+- [Dan Klyn: Strategy and Structure - Doing It Right, and How You'd Know](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Strategy_and_Structure-Doing_It_Right.md)
+- [Bill Rattner: Creating a Long-Term, Unified Plan for Digital Customer Experience](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Creating_a_Long-Term_Unified_Plan.md)
+- [Jim Kalbach: Applying 'Jobs to be Done' to UX Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Applying_Jobs_to_be_Done_to_UX_Strat.md)
+- [Jon Kolko: Well Designed: Bringing Design Thinking to Product Management in Order to Create Products People Love](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Bringing_Design_Thinking_to_Product_Management)
