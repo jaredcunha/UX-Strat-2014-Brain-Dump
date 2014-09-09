@@ -61,3 +61,6 @@ Digital and phycsical worlds are fitting together more seamlessly.
 Finding meanings in "code" shows us deeper insight. If you like Garth Brooks, you probably vote republican. Music prefs provide very rich information. Pandora uses your music tastes to connect you to political candidates. Your facebook pattern can preidct when you fall in love. They know 100 days before the relationship starts. 
 
 Cultural norms around personal data are culturally, economically, geographically dependent. 
+
+Sensors in trash cans to tell cities to pick up trash only when the cans are full.
+Sensors in the ground that know when parking spaces are available

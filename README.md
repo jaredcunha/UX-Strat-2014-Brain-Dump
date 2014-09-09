@@ -19,3 +19,6 @@ My notes from UX Strat 2014 in Boulder, CO. This is a collection of notes I've t
 
 ## Tuesday Talks
 - [Theo Forbath: The Role of UX in Defining the Future of Products, Brands, and Business Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/UX_in_Defining_the_Future.md)
+- [Sofia Hussain: Designing Digital Strategies Based on Ecosystem Thinking](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Designing_Digital_Strategies_Based_on_Ecosystem.md)
+- [Fabio Sergio: Design for Impact](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/masterUsing_Behavioral_Modeling_to_Engage.md)
+- [Rich Warnaka: Using Behavioral Modeling to Engage Customers](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Design_for_Impact.md)
