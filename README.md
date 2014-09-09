@@ -15,5 +15,7 @@ My notes from UX Strat 2014 in Boulder, CO. This is a collection of notes I've t
 - [Martin Granström: UX as a Company Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/UX_as_a_Company_Strategy.md)
 - [Todd Wilkens: Putting UX and Strategy at the Heart fo the Product Team](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Putting_UX_and_Strategy_at_the_Heart_of_the_Product_Team.md)
 - [Matthew Holloway: Design Your Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Design_Your_Strategy.md)
+- [Ronnie Batista: Big Love: The Case for Conscious Coupling in UX Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/Big_Love_The_Case_for_Conscious.md)
 
 ## Tuesday Talks
+- [Theo Forbath: The Role of UX in Defining the Future of Products, Brands, and Business Strategy](https://github.com/jaredcunha/UX-Strat-2014-Brain-Dump/blob/master/UX_in_Defining_the_Future.md)
