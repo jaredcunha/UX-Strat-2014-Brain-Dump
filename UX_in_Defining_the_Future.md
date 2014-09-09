@@ -34,7 +34,11 @@ Many firms are configured to the past and they don't know how to stay relavent.
 
 Read book "code halos"
 
-Look at SMACS
+Look at SMAC stack [link](http://www.cognizant.com/SMAC‎)
+Social
+Mobile
+Analytics
+Cloud
 
 Companies will start competing on "code" and UX. The companies see "code" when they see us.
 
@@ -56,3 +60,4 @@ Digital and phycsical worlds are fitting together more seamlessly.
 
 Finding meanings in "code" shows us deeper insight. If you like Garth Brooks, you probably vote republican. Music prefs provide very rich information. Pandora uses your music tastes to connect you to political candidates. Your facebook pattern can preidct when you fall in love. They know 100 days before the relationship starts. 
 
+Cultural norms around personal data are culturally, economically, geographically dependent. 
