@@ -1,5 +1,6 @@
 # Peter Merlholz - Shaping Organizations to Deliver Great User Experiences
 (@peterme)
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-peter-merholz-shaping-organizations-to-deliver-great-user-experiences)
 
 Even with a great strategy and practicing good design, the ultimate outcome is crappy. Why? Oh right. "Culture eats strategy for breakfast."
 
