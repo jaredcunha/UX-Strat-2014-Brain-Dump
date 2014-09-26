@@ -1,4 +1,5 @@
 # Matthew Holloway: Design Your Strategy
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-matthew-holloway)
 
 Design and strategy should be multipliers. 
 

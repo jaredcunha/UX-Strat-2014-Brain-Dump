@@ -1,4 +1,5 @@
 # Sofia Hussain: Designing Digital Strategies Based on Ecosystem Thinking
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-dr-sofia-hussain)
 
 ## What is an ecosystem? 
 Ecosystem thinking abou tmore than designing for multiple devices. It is:

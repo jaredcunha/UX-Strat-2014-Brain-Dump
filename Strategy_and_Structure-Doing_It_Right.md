@@ -1,4 +1,6 @@
 # Dan Klyn: Strategy and Structure - Doing It Right, and How You'd Know
+[slides](http://www.slideshare.net/danfnord/strategy-structure-doing-it-right-and-how-youd-know?related=1)
+[video](https://vimeo.com/105803275)
 
 "What is good structure? There is not right way, but there is a good way"  -Richard Saul Wurman
 

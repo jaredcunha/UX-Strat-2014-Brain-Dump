@@ -1,4 +1,5 @@
 # Rich Warnaka: Using Behavioral Modeling to Engage Customers
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-fabio-sergio-design-for-impact-39118896)
 
 It takes a villiage to build UX into an organization. 
 

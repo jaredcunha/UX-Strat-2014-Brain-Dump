@@ -1,4 +1,5 @@
 # Ronnie Batista: Big Love: The Case for Conscious Coupling in UX Strategy
+[slides](http://www.slideshare.net/UXSTRAT/big-love-uxstrat-slideshare-version)
 
 We know what we do, but a lot of people still don't. We debate about who owns what.
 

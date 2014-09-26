@@ -1,4 +1,6 @@
 # Krispian Emert - Lessons from UX Strat 2013 
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-krispian-emert)
+
 - and how it was applied to work
 
 Immature model - pre-defined idea and just sprinkle some UX on later. 

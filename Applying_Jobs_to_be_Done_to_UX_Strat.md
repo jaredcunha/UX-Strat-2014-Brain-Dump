@@ -1,4 +1,5 @@
 # Jim Kalbach: Applying 'Jobs to be Done' to UX Strategy
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-jim-kalbach)
 
 Generating more ideas don't help the situation. Designers can exacerbate that. Design thinking activities that don't lead anywhere. 
 

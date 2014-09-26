@@ -1,4 +1,5 @@
 # Fabio Sergio: Design for Impact
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-fabio-sergio-design-for-impact)
 
 ## What about societal value as a measure of success? 
 

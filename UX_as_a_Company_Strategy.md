@@ -1,4 +1,5 @@
 # Martin Granström - UX as a Company Strategy
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-martin-granstrm)
 
 ## Establish a UX Mindset
 ### 7 Steps of UX Lifecycle

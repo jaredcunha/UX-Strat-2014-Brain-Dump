@@ -1,4 +1,5 @@
 # Laura Granka: Getting a Seat at the Table
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-dr-laura-granka)
 
 Google philosophy - focus on the user and all else will follow. 
 UX was all about speed and performance. 

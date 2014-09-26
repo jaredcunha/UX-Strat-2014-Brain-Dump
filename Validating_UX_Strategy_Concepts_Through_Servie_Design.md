@@ -1,4 +1,5 @@
 # Ashley Halsey Hemingway -  Validating UX Strategy Concepts Through Service Design
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-ashley-halsey-hemingway)
 
 Bring your own seat to the table, don't wait for one. 
 

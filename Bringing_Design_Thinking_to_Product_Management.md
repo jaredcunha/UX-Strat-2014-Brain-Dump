@@ -1,5 +1,6 @@
 # Jon Kolko: Well Designed: Bringing Design Thinking to Product Management in Order to Create Products People Love
 How to use empathy to create products people love
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-jon-kolko-well-designed-bringing-design-thinking-to-product-management-in-order-to-create-products-people-love)
 
 ## Where do greate new products come from? 
 Is it vision? Companies have a north star of where they are heading. 

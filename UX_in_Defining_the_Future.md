@@ -1,4 +1,5 @@
 # Theo Forbath: The Role of UX in Defining the Future of Products, Brands, and Business 
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-theo-forbath)
 
 ## How businesses view the evoltion of tech and its impact on brands, products, personal data
 We're going from a world of things to a world of smart, connected, programmable things. 

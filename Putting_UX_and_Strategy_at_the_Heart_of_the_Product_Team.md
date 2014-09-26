@@ -2,6 +2,7 @@
 
 or Killing UX Strategy to save UX and Strategy
 
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-todd-wilkens-putting-ux-and-strategy-at-the-heart-of-the-product-team)
 
 ## Experience-focused decision 
 There is no such thing as enterprise software anymore. There is just good software and bad software. 

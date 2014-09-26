@@ -1,4 +1,5 @@
 # Brian Gillespie - How to avoid losing design strategy to business strategies
+[slides](http://www.slideshare.net/UXSTRAT/ux-strat-2014-brian-gillespie)
 
 Brian wrote "Will designers lose design strategy to business strategies learning design thinking?"
 
